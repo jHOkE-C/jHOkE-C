@@ -12,19 +12,19 @@ I am a **frontend developer** with an unwavering commitment to continuous learni
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border:none;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true"
         width="100%" />
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="40%"  style="border:none;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         width="100%" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" style="border:none;">
       <img
         src="https://nirzak-streak-stats.vercel.app/?user=jHOkE-C&theme=chartreuse-dark&hide_border=true"
         width="100%" />
