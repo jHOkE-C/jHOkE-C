@@ -18,10 +18,8 @@ I am a **frontend developer** with an unwavering commitment to continuous learni
     <tr>
       <td width="100%">
         <div style="display: flex; justify-content: center; align-items: center;">
-           <a href="https://github.com/jHOkE-C" style="display: flex; justify-content: center; align-items: center;">
-            <img
-                 src="https://github-readme-stats.vercel.app/api?username=jHOkE-C&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
-          </a>
+          <img width="55%"
+                 src="https://github-readme-stats.vercel.app/api?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" />
           <img width="43%"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
         </div
