@@ -17,7 +17,7 @@ I am a **frontend developer** with an unwavering commitment to continuous learni
         src="https://github-readme-stats.vercel.app/api?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true"
         width="100%" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         width="100%" />
