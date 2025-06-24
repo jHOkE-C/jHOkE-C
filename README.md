@@ -26,12 +26,7 @@ I am a **frontend developer** with an unwavering commitment to continuous learni
       </td>
     </tr>
   </table>
-
-## 🚀 What Drives Me
--   **Iterate and measure:** every millisecond saved and each additional Lighthouse point matters.
--   **Continuous learning:** there is always a new book, course, or repository on my agenda.
--   **Collaboration:** code is strengthened through peer review and the open exchange of ideas.
-## 🌐 Socials:
+  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.jhoke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JhonKCorralesG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhon.corralesg@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
