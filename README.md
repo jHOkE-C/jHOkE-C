@@ -7,7 +7,9 @@ I am a **frontend developer** with an unwavering commitment to continuous learni
 
 ## 📊 GitHub Stats:
 
-  <table stylw="width: 100vw">
+ 
+
+  <table>
     <tr>
       <td width="100%">
         <div style="display: flex; justify-content: center; align-items: center;">
@@ -15,12 +17,16 @@ I am a **frontend developer** with an unwavering commitment to continuous learni
                  src="https://github-readme-stats.vercel.app/api?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" />
           <img width="43%"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=jHOkE-C&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-        </div
-        <div align="center">
-          <img width="100%"
-               src="https://nirzak-streak-stats.vercel.app/?user=jHOkE-C&theme=chartreuse-dark&hide_border=true" />
-        </div
+        </div>
       </td>
+      <td width="100%"/>
+    </tr>
+    <tr>
+      <td width="100%">
+          <img width="100%"
+            src="https://nirzak-streak-stats.vercel.app/?user=jHOkE-C&theme=chartreuse-dark&hide_border=true" />
+      </td>
+      <td width="100%"/>
     </tr>
   </table>
 
