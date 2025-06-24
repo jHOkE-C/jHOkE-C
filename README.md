@@ -2,9 +2,7 @@
 
 ## Introduction
 
-I am a **frontend developer** with an unwavering commitment to continuous learning and performance optimisation. My passion lies in translating concepts into **fast, accessible, and search-engine–friendly interfaces**. 
-  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.jhoke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JhonKCorralesG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhon.corralesg@gmail.com)
+I am a **frontend developer** with an unwavering commitment to continuous learning and performance optimisation. My passion lies in translating concepts into **fast, accessible, and search-engine–friendly interfaces**. [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.jhoke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JhonKCorralesG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhon.corralesg@gmail.com)
 
 ## 🔧Technical Strengths
 **Performance & SEO:** Core Web Vitals, strategic caching, controlled DOM mutations, Lighthouse audits, lazy loading, and SSR/SSG workflows.
